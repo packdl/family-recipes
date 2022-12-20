@@ -1,4 +1,4 @@
 ---
 title: Welcome to the family
-description: Family, food and love
+description: Family, food and love!
 ---

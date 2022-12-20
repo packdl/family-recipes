@@ -10,6 +10,12 @@ theme = 'ananke'
   url = '/about/'
 
 [[menu.main]]
+  identifier = 'searc'
+  name = 'Search by Ingredient'
+  url = '/tags/'
+
+
+[[menu.main]]
   identifier = 'bates'
   name = 'Bates Family Recipes'
   url = '/category/bates'
