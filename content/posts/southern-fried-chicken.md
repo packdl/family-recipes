@@ -5,6 +5,8 @@ Author: dpack
 Category: Montgomery
 Slug: southern-fried-chicken
 Status: published
+tags:
+ - chicken
 ---
 
 Provided by Bertha Jordan for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 144-->

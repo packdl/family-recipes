@@ -4,6 +4,8 @@ Date: 2016-05-06 01:48
 Author: dpack
 Category: Pack
 Slug: turkey-patty
+tags:
+ - turkey
 ---
 Status: published
 ---

@@ -5,6 +5,9 @@ Author: dpack
 Category: Montgomery
 Slug: chocolate-mint-cake
 Status: published
+tags:
+ - chocolate
+ - cake
 ---
 
 Provided by Renika Montgomery for 2014 Montgomery Family Reunion Cookbook

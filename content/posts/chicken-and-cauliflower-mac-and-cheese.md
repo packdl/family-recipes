@@ -5,6 +5,10 @@ Author: dpack
 Category: Pack
 Slug: chicken-and-cauliflower-mac-and-cheese
 Status: published
+tags:
+ - chicken
+ - cauliflower
+ - macaroni
 ---
 
 <!--WPRM Recipe 96-->

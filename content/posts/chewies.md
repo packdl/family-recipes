@@ -5,6 +5,10 @@ Author: dpack
 Category: Montgomery
 Slug: chewies
 Status: published
+tags:
+ - brown sugar
+ - butter
+ - eggs
 ---
 
 Provided by Elease Pack for 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 188-->

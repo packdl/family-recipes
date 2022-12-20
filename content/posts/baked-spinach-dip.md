@@ -5,6 +5,11 @@ Author: dpack
 Category: Montgomery
 Slug: baked-spinach-dip
 Status: published
+Tags:
+  - spinach
+  - cheddar cheese
+  - garlic
+  - onions
 ---
 
 Provided by Betty Smalls for 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 172-->

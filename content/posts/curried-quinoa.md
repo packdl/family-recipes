@@ -5,9 +5,13 @@ Author: dpack
 Category: Pack
 Slug: curried-quinoa
 Status: published
+tags:
+  - onions
+  - quinoa
+  - coconut milk
 ---
 
-This curried quinoa recipe is a result of the [curried goat](http://primarch/recipe/curried-goat/) I attempted. After making the goat, I realized that I had way more curry sauce than I had goat. At this point, I started searching for ways to make use of the rest of that curry sauce. Curried quinoa is one of the results. <!--WPRM Recipe 104-->
+This curried quinoa recipe is a result of the [curried goat](/posts/curried-goat) I attempted. After making the goat, I realized that I had way more curry sauce than I had goat. At this point, I started searching for ways to make use of the rest of that curry sauce. Curried quinoa is one of the results. <!--WPRM Recipe 104-->
 
 <div class="wprm-fallback-recipe">
 

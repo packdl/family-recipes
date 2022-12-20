@@ -5,6 +5,10 @@ Author: dpack
 Category: Pack
 Slug: beans-and-rice
 Status: published
+tags:
+ - beans
+ - rice
+ - coconut milk
 ---
 
 You can make this recipe multiple different beans and either vegetarian or with meat. Onions, garlic and any other seasoning can be added. <!--WPRM Recipe 92-->

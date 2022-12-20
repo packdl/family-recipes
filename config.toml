@@ -1,4 +1,29 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Family Recipes'
 theme = 'ananke'
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About Us'
+  url = '/about/'
+
+[[menu.main]]
+  identifier = 'bates'
+  name = 'Bates Family Recipes'
+  url = '/category/bates'
+
+[[menu.main]]
+  identifier = 'pack'
+  name = 'Pack Family Recipes'
+  url = '/category/pack'
+
+[[menu.main]]
+  identifier = 'montgomery'
+  name = 'Montgomery Family Recipes'
+  url = '/category/montgomery'
+
+[taxonomies]
+  category = 'Category'
+  tag ='tags'

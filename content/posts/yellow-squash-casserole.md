@@ -5,6 +5,8 @@ Author: dpack
 Category: Pack
 Slug: yellow-squash-casserole
 Status: published
+tags:
+ - squash
 ---
 
 This is a yellow squash casserole recipe that I modified to my own tastes. You can find the original on [All Recipes](http://allrecipes.com/recipe/18045/yellow-squash-casserole/). Most of the unique steps in the recipe (e.g., pureeing the onions) are to suit specific family tastes. For the onions, my wife doesn't like them, but will eat them if they are cooked and are indistinguishable in her food. Pureeing them was the necessary step for her to eat them. I hope you love this recipe as much as I did. <!--WPRM Recipe 228-->
