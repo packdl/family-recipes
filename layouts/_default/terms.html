@@ -8,18 +8,18 @@
 </article>
 <div class="mw8 center">
   <section class="ph4">
-    {{ range $term := .Data.Pages }}
-    <!--<h4 class="f1">-->
-    <p>
-      <a href="{{ $term.RelPermalink }}" class="link gray hover-black">
-        {{ $term.LinkTitle }}
-      </a>
-    </p>
-    <!--</h4>-->
-    <!--{{ range $term.Pages }}
-    {{ .Render "summary" }}
-    {{ end }} -->
-    {{ end }}
+    <ul>
+      {{ range $key, $term := .Data.Terms.ByCount }}
+      <!--<h4 class="f1">-->
+
+      <li class="f2" style="width:50%;border:1px;border-style:solid;list-style-type:none;margin:auto;">
+        <a href="{{ $term.Name }}" class="link gray hover-black">
+          {{ strings.Title $term.Name }}
+          <span style="float:right;">{{ $term.Count }}</span>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
   </section>
 </div>
 {{ end }}
