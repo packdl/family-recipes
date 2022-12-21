@@ -1,11 +1,11 @@
 ---
 Title: Beans and rice
 Date: 2017-01-04 22:45
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: beans-and-rice
 Status: published
-tags:
+ingredients:
  - beans
  - rice
  - coconut milk

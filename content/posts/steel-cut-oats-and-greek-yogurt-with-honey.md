@@ -1,8 +1,8 @@
 ---
 Title: Steel cut oats and greek yogurt with honey
 Date: 2016-05-06 01:19
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: steel-cut-oats-and-greek-yogurt-with-honey
 Status: published
 ---

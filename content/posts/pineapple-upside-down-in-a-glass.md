@@ -1,8 +1,8 @@
 ---
 Title: Pineapple upside down in a glass
 Date: 2016-01-04 03:41
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: pineapple-upside-down-in-a-glass
 Status: published
 ---

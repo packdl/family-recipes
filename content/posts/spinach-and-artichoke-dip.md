@@ -1,8 +1,8 @@
 ---
 Title: Spinach and artichoke dip
 Date: 2016-01-04 03:00
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: spinach-and-artichoke-dip
 Status: published
 ---

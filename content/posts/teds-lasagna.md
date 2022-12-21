@@ -1,8 +1,8 @@
 ---
 title: Ted's Lasagna
 Date: 2016-05-08 14:36
-Author: dpack
-Category: Bates
+author: Derik
+families: Bates
 Slug: teds-lasagna
 Status: published
 ---

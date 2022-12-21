@@ -1,11 +1,11 @@
 ---
 Title: Chewies
 Date: 2016-01-02 15:24
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: chewies
 Status: published
-tags:
+ingredients:
  - brown sugar
  - butter
  - eggs

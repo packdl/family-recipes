@@ -1,8 +1,8 @@
 ---
 Title: Eggs Ole
 Date: 2016-01-02 05:08
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: eggs-ole
 Status: published
 ---

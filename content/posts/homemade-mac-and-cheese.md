@@ -1,8 +1,8 @@
 ---
 Title: Homemade mac and cheese
 Date: 2015-12-28 23:52
-Author: dpack
-Category: 
+author: Derik
+families: 
 - Bates
 - Pack
 Slug: homemade-mac-and-cheese

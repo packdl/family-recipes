@@ -1,8 +1,8 @@
 ---
 Title: Louisiana Hot Crab Dip
 Date: 2016-01-02 15:19
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: louisiana-hot-crab-dip
 Status: published
 ---

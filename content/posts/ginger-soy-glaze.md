@@ -1,8 +1,8 @@
 ---
 Title: Ginger-soy glaze
 Date: 2016-01-02 15:39
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: ginger-soy-glaze
 Status: published
 ---

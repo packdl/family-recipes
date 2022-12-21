@@ -1,8 +1,8 @@
 ---
 Title: Goat and squash noodles in alfredo sauce
 Date: 2016-01-24 03:37
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: goat-and-squash-noodles-in-alfredo-sauce
 Status: published
 ---

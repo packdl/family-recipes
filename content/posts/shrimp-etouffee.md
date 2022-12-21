@@ -1,8 +1,8 @@
 ---
 Title: Shrimp etouffee
 Date: 2016-01-04 03:26
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: shrimp-etouffee
 Status: published
 ---

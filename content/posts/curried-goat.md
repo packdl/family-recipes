@@ -1,8 +1,8 @@
 ---
 Title: Curried goat
 Date: 2016-11-20 02:46
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: curried-goat
 Status: published
 ---

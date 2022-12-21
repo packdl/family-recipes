@@ -1,8 +1,8 @@
 ---
 Title: Pineapple upside cupcakes
 Date: 2016-01-06 02:44
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: pineapple-upside-cupcakes
 Status: published
 ---

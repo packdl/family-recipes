@@ -1,8 +1,8 @@
 ---
 Title: Slow cooker bolognese sauce
 Date: 2016-01-02 16:14
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: slow-cooker-bolognese-sauce
 Status: published
 ---

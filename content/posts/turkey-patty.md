@@ -1,10 +1,10 @@
 ---
 Title: Turkey patty
 Date: 2016-05-06 01:48
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: turkey-patty
-tags:
+ingredients:
  - turkey
 ---
 Status: published

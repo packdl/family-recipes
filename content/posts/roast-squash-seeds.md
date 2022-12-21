@@ -1,8 +1,8 @@
 ---
 Title: Roast squash seeds
 Date: 2015-12-28 01:26
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: roast-squash-seeds
 Status: published
 ---

@@ -10,26 +10,27 @@ theme = 'ananke'
   url = '/about/'
 
 [[menu.main]]
-  identifier = 'searc'
+  identifier = 'search'
   name = 'Search by Ingredient'
-  url = '/tags/'
+  url = '/ingredients/'
 
 
 [[menu.main]]
   identifier = 'bates'
   name = 'Bates Family Recipes'
-  url = '/category/bates'
+  url = '/families/bates'
 
 [[menu.main]]
   identifier = 'pack'
   name = 'Pack Family Recipes'
-  url = '/category/pack'
+  url = '/families/pack'
 
 [[menu.main]]
   identifier = 'montgomery'
   name = 'Montgomery Family Recipes'
-  url = '/category/montgomery'
+  url = '/families/montgomery'
 
 [taxonomies]
-  category = 'Category'
-  tag ='tags'
+  family = 'families'
+  ingredient = 'ingredients'
+  meal = 'meals'

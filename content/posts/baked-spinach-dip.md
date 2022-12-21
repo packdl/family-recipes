@@ -1,11 +1,11 @@
 ---
 Title: Baked spinach dip
 Date: 2016-01-02 20:26
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: baked-spinach-dip
 Status: published
-Tags:
+ingredients:
   - spinach
   - cheddar cheese
   - garlic

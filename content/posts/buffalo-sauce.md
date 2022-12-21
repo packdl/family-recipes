@@ -1,8 +1,8 @@
 ---
 Title: Buffalo sauce
 Date: 2016-01-02 15:33
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: buffalo-sauce
 Status: published
 ---

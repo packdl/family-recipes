@@ -1,8 +1,8 @@
 ---
 Title: Chorizo and potato hash
 Date: 2016-08-22 02:55
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: chorizo-and-potato-hash
 Status: published
 ---

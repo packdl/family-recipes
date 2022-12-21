@@ -1,8 +1,8 @@
 ---
 Title: Curried salmon
 Date: 2016-11-20 03:42
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: curried-salmon
 Status: published
 ---

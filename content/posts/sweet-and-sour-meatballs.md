@@ -1,8 +1,8 @@
 ---
 Title: Sweet and sour meatballs
 Date: 2016-01-02 04:59
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: sweet-and-sour-meatballs
 Status: published
 ---

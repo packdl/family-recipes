@@ -1,11 +1,11 @@
 ---
 Title: Yellow squash casserole
 Date: 2015-12-27 20:25
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: yellow-squash-casserole
 Status: published
-tags:
+ingredients:
  - squash
 ---
 

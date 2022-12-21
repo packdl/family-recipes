@@ -1,8 +1,8 @@
 ---
 Title: Cream cheese pound cake
 Date: 2016-01-02 20:42
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: cream-cheese-pound-cake
 Status: published
 ---

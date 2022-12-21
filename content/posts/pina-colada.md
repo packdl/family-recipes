@@ -1,8 +1,8 @@
 ---
 Title: Pina colada
 Date: 2016-01-04 03:36
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: pina-colada
 Status: published
 ---

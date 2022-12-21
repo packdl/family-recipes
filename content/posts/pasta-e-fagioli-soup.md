@@ -1,8 +1,8 @@
 ---
 Title: Pasta e fagioli soup
 Date: 2016-01-06 02:59
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: pasta-e-fagioli-soup
 Status: published
 ---

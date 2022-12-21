@@ -1,11 +1,11 @@
 ---
 Title: Southern fried chicken
 Date: 2016-01-04 03:56
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: southern-fried-chicken
 Status: published
-tags:
+ingredients:
  - chicken
 ---
 

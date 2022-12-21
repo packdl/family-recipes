@@ -1,11 +1,11 @@
 ---
 Title: Brown sugar marinated pork chops
 Date: 2015-12-29 01:24
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: brown-sugar-marinated-pork-chops
 Status: published
-tags:
+ingredients:
  - brown sugar
  - pork chop
 ---

@@ -1,8 +1,8 @@
 ---
 Title: Fish with lemon sauce in cast iron
 Date: 2015-12-28 00:23
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: fish-with-lemon-sauce-in-cast-iron
 Status: published
 ---

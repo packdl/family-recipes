@@ -1,8 +1,8 @@
 ---
 Title: Sausage and Johnny Cake
 Date: 2016-01-01 04:31
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: sausage-and-johnny-cake
 Status: published
 ---

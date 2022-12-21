@@ -1,11 +1,11 @@
 ---
 Title: Chocolate mint cake
 Date: 2016-01-06 03:42
-Author: dpack
-Category: Montgomery
+author: Derik
+families: Montgomery
 Slug: chocolate-mint-cake
 Status: published
-tags:
+ingredients:
  - chocolate
  - cake
 ---

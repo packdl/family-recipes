@@ -1,11 +1,11 @@
 ---
 Title: Curried quinoa
 Date: 2016-11-20 03:10
-Author: dpack
-Category: Pack
+author: Derik
+families: Pack
 Slug: curried-quinoa
 Status: published
-tags:
+ingredients:
   - onions
   - quinoa
   - coconut milk
