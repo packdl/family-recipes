@@ -7,19 +7,15 @@ Slug: chocolate-mint-cake
 Status: published
 ingredients:
  - chocolate
- - cake
+ - mint
 ---
 
 Provided by Renika Montgomery for 2014 Montgomery Family Reunion Cookbook
 
 For this cake, you will need one two layer chocolate cake, mint frosting, chocolate mint cookies (I prefer Girl Scouts Thin Mints, but Keebler Grasshoppers or any other chocolate mint cookies will do) and ganache. <!--WPRM Recipe 132-->
 
-<div class="wprm-fallback-recipe">
-
 Chocolate mint cake {.wprm-fallback-recipe-name}
 -------------------
-
-<div class="wprm-fallback-recipe-ingredients">
 
 #### Chocolate Cake
 
@@ -45,10 +41,6 @@ Chocolate mint cake {.wprm-fallback-recipe-name}
 
 -   2 oz semi-sweet chocolate squares
 -   1/4 cup heavy whipping cream
-
-</div>
-
-<div class="wprm-fallback-recipe-instructions">
 
 #### Chocolate Cake (adapted from David Lebovitz's Devil's food cake recipe found here: http://www.davidlebovitz.com/2007/08/devils-food-cak/
 
@@ -78,12 +70,3 @@ Chocolate mint cake {.wprm-fallback-recipe-name}
 2.  Place the chocolate mint cookies in a Ziploc bag. Seal, and crush the cookies using a rolling pin.
 3.  Using the frosting spatula, gently press the cookies into the side of the cake. They should stick easily.
 
-</div>
-
-<div class="wprm-fallback-recipe-notes">
-
-</div>
-
-</div>
-
-<!--End WPRM Recipe-->
