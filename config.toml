@@ -19,6 +19,12 @@ theme = 'ananke'
   url = '/ingredients/'
   weight = 40
 
+[[menu.main]]
+  identifier = 'sbm'
+  name = 'Search by Meal'
+  url = '/meals/'
+  weight = 50
+
 
 [[menu.main]]
   identifier = 'c'
