@@ -3,32 +3,40 @@ languageCode = 'en-us'
 title = 'Family Recipes'
 theme = 'ananke'
 
+[params]
+  background_color_class = "bg-blue"
+
 [menu]
 [[menu.main]]
-  identifier = 'about'
+  identifier = 'a'
   name = 'About Us'
   url = '/about/'
+  weight = 20
 
 [[menu.main]]
-  identifier = 'search'
+  identifier = 'b'
   name = 'Search by Ingredient'
   url = '/ingredients/'
+  weight = 40
 
 
 [[menu.main]]
-  identifier = 'bates'
+  identifier = 'c'
   name = 'Bates Family Recipes'
   url = '/families/bates'
+  weight = 60
 
 [[menu.main]]
-  identifier = 'pack'
+  identifier = 'd'
   name = 'Pack Family Recipes'
   url = '/families/pack'
+  weight = 80 
 
 [[menu.main]]
-  identifier = 'montgomery'
+  identifier = 'e'
   name = 'Montgomery Family Recipes'
   url = '/families/montgomery'
+  weight = 100
 
 [taxonomies]
   family = 'families'

@@ -12,7 +12,8 @@
       {{ range $key, $term := .Data.Terms.ByCount }}
       <!--<h4 class="f1">-->
 
-      <li class="f2" style="width:50%;border:1px;border-style:solid;list-style-type:none;margin:auto;">
+      <li class="f2"
+        style="width:50%;border:1px;border-style:solid;list-style-type:none;margin:auto;padding: 5px 5px 5px 5px;">
         <a href="{{ $term.Name }}" class="link gray hover-black">
           {{ strings.Title $term.Name }}
           <span style="float:right;">{{ $term.Count }}</span>
