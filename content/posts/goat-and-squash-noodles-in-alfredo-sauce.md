@@ -5,6 +5,12 @@ author: Derik
 families: Pack
 Slug: goat-and-squash-noodles-in-alfredo-sauce
 Status: published
+ingredients:
+  - goat
+  - squash
+  - alfredo
+meals:
+  - dinner
 ---
 
 You'll need a spiral slicer for this recipe. You'll be making noodles out of hte squash. <!--WPRM Recipe 128-->

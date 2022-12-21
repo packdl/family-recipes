@@ -8,6 +8,9 @@ Status: published
 ingredients:
  - brown sugar
  - pork chop
+meals:
+  - lunch
+  - dinner
 ---
 
 I used to work at Asbury Hills, a United Methodist campus ministry. During one of the staff reunion events, one of the staff members cooked a brown sugar marinated pork chop. I loved it, and on several occasions I've prepared them for family and friends. The recipe is below. You can grill or bake them. <!--WPRM Recipe 212-->

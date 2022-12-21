@@ -5,6 +5,12 @@ author: Derik
 families: Pack
 Slug: curried-goat
 Status: published
+ingredients:
+  - curry
+  - goat
+  - coconut milk
+meals:
+  - dinner
 ---
 
 I created this recipe with a pressure cooker, but it is also feasible with a slow cooker. <!--WPRM Recipe 108-->

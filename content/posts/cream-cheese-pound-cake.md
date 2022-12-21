@@ -5,6 +5,10 @@ author: Derik
 families: Montgomery
 Slug: cream-cheese-pound-cake
 Status: published
+ingredients:
+  - cream cheese
+meals:
+  - dessert
 ---
 
 Provided by Dora Crews for 2014 Montgomery Family Reunion. <!--WPRM Recipe 168-->

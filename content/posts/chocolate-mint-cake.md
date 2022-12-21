@@ -8,6 +8,8 @@ Status: published
 ingredients:
  - chocolate
  - mint
+meals:
+  - dessert
 ---
 
 Provided by Renika Montgomery for 2014 Montgomery Family Reunion Cookbook

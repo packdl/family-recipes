@@ -1,6 +1,6 @@
 ---
 Title: Baked spinach dip
-Date: 2016-01-02 20:26
+Date: 2016-01-02
 author: Derik
 families: Montgomery
 Slug: baked-spinach-dip
@@ -10,6 +10,8 @@ ingredients:
   - cheddar cheese
   - garlic
   - onions
+meals:
+  - appetizer
 ---
 
 Provided by Betty Smalls for 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 172-->

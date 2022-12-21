@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: sausage-and-johnny-cake
 Status: published
+ingredients:
+  - sausage
+  - buttermilk
+meals:
+  - breakfast
 ---
 
 From Ingrid Price. Included in 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 208-->

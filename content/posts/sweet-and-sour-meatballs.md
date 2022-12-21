@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: sweet-and-sour-meatballs
 Status: published
+ingredients:
+  - meatballs
+meals:
+  - appetizer
+  - dinner
 ---
 
 Provided by Elease Montgomery Pack in 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 200-->

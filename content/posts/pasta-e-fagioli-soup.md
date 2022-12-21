@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: pasta-e-fagioli-soup
 Status: published
+ingredients:
+  - beef
+  - beans
+meals:
+  - dinner
 ---
 
 Provided by Ann Bergstrom for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 136-->

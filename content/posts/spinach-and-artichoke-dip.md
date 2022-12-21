@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: spinach-and-artichoke-dip
 Status: published
+ingredients:
+  - spinach
+  - artichoke
+meals:
+  - appetizer
 ---
 
 Provided by Renika Montgomery for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 164-->

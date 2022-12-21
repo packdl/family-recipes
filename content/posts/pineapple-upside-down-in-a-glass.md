@@ -5,6 +5,10 @@ author: Derik
 families: Montgomery
 Slug: pineapple-upside-down-in-a-glass
 Status: published
+ingredients:
+  - pineapple
+meals:
+  - dessert
 ---
 
 Provided by James C. Montgomery for 2014 Montgomery Family Reunion <!--WPRM Recipe 148-->

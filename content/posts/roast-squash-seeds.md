@@ -5,6 +5,10 @@ author: Derik
 families: Pack
 Slug: roast-squash-seeds
 Status: published
+ingredients:
+  - squash
+meals:
+  - appetizer
 ---
 
 This restaurant assumes you are making some entree or side dish with acorn squash, spaghetti squash or butternut squash. At some point you scrape out the seeds from your squash. Instead of thowing them out, make a healthy snack with them. <!--WPRM Recipe 220-->

@@ -9,6 +9,8 @@ ingredients:
  - brown sugar
  - butter
  - eggs
+meals:
+  - dessert
 ---
 
 Provided by Elease Pack for 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 188-->

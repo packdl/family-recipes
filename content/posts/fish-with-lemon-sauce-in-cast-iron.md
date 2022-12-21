@@ -5,6 +5,11 @@ author: Derik
 families: Pack
 Slug: fish-with-lemon-sauce-in-cast-iron
 Status: published
+ingredients:
+  - salmon
+  - lemon
+meals:
+  - dinner
 ---
 
 My wife and my mother-in-law both like fish. It's always a good and healthy choice when I prepare dinner for them. Everyone knows that fish and lemon go well together. This is my take on making fish (white or salmon) with a lemon sauce in my cast iron skillet. You can do this without cast iron, but it'll take two cooking dishes or an enameled cooking dish that is certified for both stove top and oven. <!--WPRM Recipe 224-->

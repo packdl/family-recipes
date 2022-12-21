@@ -5,6 +5,13 @@ author: Derik
 families: Montgomery
 Slug: southern-fried-catfish
 Status: published
+ingredients:
+  - buttermilk
+  - catfish
+meals:
+  - dinner
+  - breakfast
+  - lunch
 ---
 
 Provided by James Montgomery Jr for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 160-->

@@ -5,6 +5,12 @@ author: Derik
 families: Pack
 Slug: chorizo-and-potato-hash
 Status: published
+ingredients:
+  - potatoes
+  - chorizo
+meals:
+  - lunch
+  - dinner
 ---
 
 This dish came about after I went to a farmer's market where I bought chorizo from a local farm, and my father gave me a large bag of red potatoes from his garden. <!--WPRM Recipe 112-->

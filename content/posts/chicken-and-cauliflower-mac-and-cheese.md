@@ -9,6 +9,9 @@ ingredients:
  - chicken
  - cauliflower
  - macaroni
+meals:
+  - lunch
+  - dinner
 ---
 
 <!--WPRM Recipe 96-->

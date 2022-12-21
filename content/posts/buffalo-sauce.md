@@ -1,13 +1,15 @@
 ---
 Title: Buffalo sauce
-Date: 2016-01-02 15:33
+Date: 2016-01-02
 author: Derik
 families: Montgomery
 Slug: buffalo-sauce
 Status: published
+meals:
+  - sauce
 ---
 
-Provided by Emma Montgomery for the 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 184-->
+Provided by Emma Montgomery for the 2014 Montgomery Family Reunion Cookbook.  <!--WPRM Recipe 184-->
 
 <div class="wprm-fallback-recipe">
 

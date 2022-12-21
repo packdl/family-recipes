@@ -5,6 +5,10 @@ author: Derik
 families: Montgomery
 Slug: pineapple-upside-cupcakes
 Status: published
+ingredients:
+  - pineapple
+meals:
+  - dessert
 ---
 
 Provided by Verna Crews for 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 140-->

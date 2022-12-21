@@ -5,6 +5,11 @@ author: Derik
 families: Bates
 Slug: teds-lasagna
 Status: published
+ingredients:
+  - ricolta
+  - parmesan
+meals:
+  - dinner
 ---
 
 My father-in-law makes a wonderful lasagna. I managed to get his recipe by watching him make it when he came to visit his newest granddaughter. I know she will enjoy the recipe for years to come.

@@ -5,6 +5,12 @@ author: Derik
 families: Montgomery
 Slug: slow-cooker-bolognese-sauce
 Status: published
+ingredients:
+  - beef
+  - sausage
+  - tomatoes
+meals:
+  - dinner
 ---
 
 Provided by Renika Montgomery for the 2014 Montgomery Family Reunion Cookbook.

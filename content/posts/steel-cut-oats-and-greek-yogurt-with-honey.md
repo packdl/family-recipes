@@ -5,6 +5,11 @@ author: Derik
 families: Pack
 Slug: steel-cut-oats-and-greek-yogurt-with-honey
 Status: published
+ingredients:
+  - yogurt
+  - oats
+meals:
+  - breakfast
 ---
 
 This is a simple, filling and tasty breakfast. <!--WPRM Recipe 124-->

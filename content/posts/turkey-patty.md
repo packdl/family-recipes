@@ -6,6 +6,9 @@ families: Pack
 Slug: turkey-patty
 ingredients:
  - turkey
+meals:
+ - lunch
+ - dinner
 ---
 Status: published
 ---

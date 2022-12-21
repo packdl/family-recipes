@@ -5,9 +5,15 @@ author: Derik
 families: Pack
 Slug: curried-salmon
 Status: published
+ingredients:
+  - curry
+  - salmon
+  - coconut milk
+meals:
+  - dinner
 ---
 
-Once I started making curry ([goat](http://primarch/recipe/curried-goat/) and [quinoa](http://primarch/recipe/curried-quinoa/)), I wanted to see how far I could take it. Another recipe based upon using curry sauce when cooking salmon. <!--WPRM Recipe 100-->
+Once I started making curry ([goat](/posts/curried-goat/) and [quinoa](/posts/curried-quinoa/)), I wanted to see how far I could take it. Another recipe based upon using curry sauce when cooking salmon. <!--WPRM Recipe 100-->
 
 <div class="wprm-fallback-recipe">
 

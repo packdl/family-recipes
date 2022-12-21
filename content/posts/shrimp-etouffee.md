@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: shrimp-etouffee
 Status: published
+ingredients:
+  - shrimp
+  - garlic
+meals:
+  - dinner
 ---
 
 Provided by Verna Crews for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 156-->

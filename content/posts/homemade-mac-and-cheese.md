@@ -7,6 +7,10 @@ families:
 - Pack
 Slug: homemade-mac-and-cheese
 Status: published
+ingredients:
+  - macaroni
+meals:
+  - dinner
 ---
 
 My wife loves mac and cheese. Fortunately a lot of people in my family know how to make it. We'd never made it from scratch before until a few Thanksgivings ago. This recipe from [All Recipes](http://allrecipes.com/recipe/11679/homemade-mac-and-cheese/) serves us well. <!--WPRM Recipe 216-->

@@ -5,6 +5,10 @@ author: Derik
 families: Montgomery
 Slug: key-lime-cake
 Status: published
+ingredients:
+  - lime
+meals:
+  - dessert
 ---
 
 One of my favorite recipes from my Aunt. Ann (Barbara) Glover. In 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 204-->

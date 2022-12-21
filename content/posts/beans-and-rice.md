@@ -9,6 +9,9 @@ ingredients:
  - beans
  - rice
  - coconut milk
+meals:
+  - lunch
+  - dinner
 ---
 
 You can make this recipe multiple different beans and either vegetarian or with meat. Onions, garlic and any other seasoning can be added. <!--WPRM Recipe 92-->

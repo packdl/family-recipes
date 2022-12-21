@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: eggs-ole
 Status: published
+ingredients:
+  - eggs
+meals:
+  - dinner
+  - breakfast
 ---
 
 Provided by Ingrid Price in 2014 Pack Family Reunion Cookbook <!--WPRM Recipe 196-->

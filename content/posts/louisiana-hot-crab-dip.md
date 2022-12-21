@@ -5,6 +5,10 @@ author: Derik
 families: Montgomery
 Slug: louisiana-hot-crab-dip
 Status: published
+ingredients:
+  - crab
+meals:
+  - appetizer
 ---
 
 Provided by Deirdre Bergstrom for 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 192-->

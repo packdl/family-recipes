@@ -7,6 +7,10 @@ Slug: southern-fried-chicken
 Status: published
 ingredients:
  - chicken
+meals:
+ - breakfast
+ - lunch
+ - dinner
 ---
 
 Provided by Bertha Jordan for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 144-->

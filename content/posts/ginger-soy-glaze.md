@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: ginger-soy-glaze
 Status: published
+ingredients:
+  - ginger
+  - soy
+meals:
+  - sauce
 ---
 
 Provided by Emma Montgomery for the 2014 Montgomery Family Reunion Cookbook. <!--WPRM Recipe 180-->

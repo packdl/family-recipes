@@ -5,6 +5,11 @@ author: Derik
 families: Montgomery
 Slug: pina-colada
 Status: published
+ingredients:
+  - rum
+  - coconut
+meals:
+  - drinks
 ---
 
 Provided by James C. Montgomery for 2014 Montgomery Family Reunion Cookbook <!--WPRM Recipe 152-->
