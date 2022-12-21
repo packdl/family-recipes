@@ -1,6 +1,6 @@
 ---
 Title: Roast squash seeds
-Date: 2015-12-28 01:26
+Date: 2015-12-28
 author: Derik
 families: Pack
 Slug: roast-squash-seeds

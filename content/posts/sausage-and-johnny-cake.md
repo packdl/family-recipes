@@ -1,6 +1,6 @@
 ---
 Title: Sausage and Johnny Cake
-Date: 2016-01-01 04:31
+Date: 2016-01-01
 author: Derik
 families: Montgomery
 Slug: sausage-and-johnny-cake

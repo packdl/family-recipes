@@ -1,6 +1,6 @@
 ---
 Title: Turkey patty
-Date: 2016-05-06 01:48
+Date: 2016-05-06
 author: Derik
 families: Pack
 Slug: turkey-patty

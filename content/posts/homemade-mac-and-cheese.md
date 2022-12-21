@@ -1,6 +1,6 @@
 ---
 Title: Homemade mac and cheese
-Date: 2015-12-28 23:52
+Date: 2015-12-28
 author: Derik
 families: 
 - Bates

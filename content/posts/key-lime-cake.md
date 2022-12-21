@@ -1,6 +1,6 @@
 ---
 Title: Key lime cake
-Date: 2016-01-01 04:51
+Date: 2016-01-01
 author: Derik
 families: Montgomery
 Slug: key-lime-cake

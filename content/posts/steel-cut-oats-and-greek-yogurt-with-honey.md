@@ -1,6 +1,6 @@
 ---
 Title: Steel cut oats and greek yogurt with honey
-Date: 2016-05-06 01:19
+Date: 2016-05-06
 author: Derik
 families: Pack
 Slug: steel-cut-oats-and-greek-yogurt-with-honey

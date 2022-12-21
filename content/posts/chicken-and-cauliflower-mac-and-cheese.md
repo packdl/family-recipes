@@ -1,6 +1,6 @@
 ---
 Title: Chicken and cauliflower mac and cheese
-Date: 2016-11-20 04:26
+Date: 2016-11-20
 author: Derik
 families: Pack
 Slug: chicken-and-cauliflower-mac-and-cheese

@@ -1,6 +1,6 @@
 ---
 title: Ted's Lasagna
-Date: 2016-05-08 14:36
+Date: 2016-05-08
 author: Derik
 families: Bates
 Slug: teds-lasagna

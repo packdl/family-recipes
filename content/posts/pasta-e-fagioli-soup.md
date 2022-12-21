@@ -1,6 +1,6 @@
 ---
 Title: Pasta e fagioli soup
-Date: 2016-01-06 02:59
+Date: 2016-01-06
 author: Derik
 families: Montgomery
 Slug: pasta-e-fagioli-soup

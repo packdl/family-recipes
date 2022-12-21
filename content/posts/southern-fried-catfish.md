@@ -1,6 +1,6 @@
 ---
 Title: Southern fried catfish
-Date: 2016-01-04 03:17
+Date: 2016-01-04
 author: Derik
 families: Montgomery
 Slug: southern-fried-catfish

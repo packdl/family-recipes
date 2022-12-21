@@ -1,6 +1,6 @@
 ---
 Title: Cream cheese pound cake
-Date: 2016-01-02 20:42
+Date: 2016-01-02
 author: Derik
 families: Montgomery
 Slug: cream-cheese-pound-cake

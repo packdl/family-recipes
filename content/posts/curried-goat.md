@@ -1,6 +1,6 @@
 ---
 Title: Curried goat
-Date: 2016-11-20 02:46
+Date: 2016-11-20
 author: Derik
 families: Pack
 Slug: curried-goat

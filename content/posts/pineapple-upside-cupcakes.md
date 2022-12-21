@@ -1,6 +1,6 @@
 ---
 Title: Pineapple upside cupcakes
-Date: 2016-01-06 02:44
+Date: 2016-01-06
 author: Derik
 families: Montgomery
 Slug: pineapple-upside-cupcakes

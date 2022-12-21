@@ -1,6 +1,6 @@
 ---
 Title: Southern fried chicken
-Date: 2016-01-04 03:56
+Date: 2016-01-04
 author: Derik
 families: Montgomery
 Slug: southern-fried-chicken

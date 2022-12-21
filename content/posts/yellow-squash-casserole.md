@@ -1,6 +1,6 @@
 ---
 Title: Yellow squash casserole
-Date: 2015-12-27 20:25
+Date: 2015-12-27
 author: Derik
 families: Pack
 Slug: yellow-squash-casserole

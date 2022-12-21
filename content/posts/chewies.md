@@ -1,6 +1,6 @@
 ---
 Title: Chewies
-Date: 2016-01-02 15:24
+Date: 2016-01-02
 author: Derik
 families: Montgomery
 Slug: chewies

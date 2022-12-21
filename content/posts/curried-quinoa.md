@@ -1,6 +1,6 @@
 ---
 Title: Curried quinoa
-Date: 2016-11-20 03:10
+Date: 2016-11-20
 author: Derik
 families: Pack
 Slug: curried-quinoa

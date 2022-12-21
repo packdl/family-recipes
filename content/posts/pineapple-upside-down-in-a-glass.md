@@ -1,6 +1,6 @@
 ---
 Title: Pineapple upside down in a glass
-Date: 2016-01-04 03:41
+Date: 2016-01-04
 author: Derik
 families: Montgomery
 Slug: pineapple-upside-down-in-a-glass

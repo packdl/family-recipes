@@ -1,6 +1,6 @@
 ---
 Title: Goat and squash noodles in alfredo sauce
-Date: 2016-01-24 03:37
+Date: 2016-01-24
 author: Derik
 families: Pack
 Slug: goat-and-squash-noodles-in-alfredo-sauce

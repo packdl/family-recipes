@@ -1,6 +1,6 @@
 ---
 Title: Curried salmon
-Date: 2016-11-20 03:42
+Date: 2016-11-20
 author: Derik
 families: Pack
 Slug: curried-salmon

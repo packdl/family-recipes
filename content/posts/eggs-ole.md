@@ -1,6 +1,6 @@
 ---
 Title: Eggs Ole
-Date: 2016-01-02 05:08
+Date: 2016-01-02
 author: Derik
 families: Montgomery
 Slug: eggs-ole

@@ -1,6 +1,6 @@
 ---
 Title: Brown sugar marinated pork chops
-Date: 2015-12-29 01:24
+Date: 2015-12-29
 author: Derik
 families: Pack
 Slug: brown-sugar-marinated-pork-chops

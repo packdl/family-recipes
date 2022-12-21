@@ -1,6 +1,6 @@
 ---
 Title: Pina colada
-Date: 2016-01-04 03:36
+Date: 2016-01-04
 author: Derik
 families: Montgomery
 Slug: pina-colada

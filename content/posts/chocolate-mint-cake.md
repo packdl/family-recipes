@@ -1,6 +1,6 @@
 ---
 Title: Chocolate mint cake
-Date: 2016-01-06 03:42
+Date: 2016-01-06
 author: Derik
 families: Montgomery
 Slug: chocolate-mint-cake

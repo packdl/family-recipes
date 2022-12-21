@@ -1,6 +1,6 @@
 ---
 Title: Beans and rice
-Date: 2017-01-04 22:45
+Date: 2017-01-04
 author: Derik
 families: Pack
 Slug: beans-and-rice

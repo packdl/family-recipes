@@ -1,6 +1,6 @@
 ---
 Title: Shrimp etouffee
-Date: 2016-01-04 03:26
+Date: 2016-01-04
 author: Derik
 families: Montgomery
 Slug: shrimp-etouffee
