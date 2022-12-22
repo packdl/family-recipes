@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 date: {{ .Date }}
 draft: true
 author: ???
@@ -9,5 +9,21 @@ ingredients:
 meals:
   - change me
 ---
+
+<!-- Add your attribution and any family history of the recipe here. -->
+
+{{ replace .Name "-" " " | title }}
+--------------
+<!-- ingredients -->
+- 
+-
+-
+
+<!-- steps -->
+1.
+2.
+3.
+
+
 
 

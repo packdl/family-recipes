@@ -9,6 +9,7 @@ Slug: homemade-mac-and-cheese
 Status: published
 ingredients:
   - macaroni
+  - cheddar cheese
 meals:
   - dinner
 ---

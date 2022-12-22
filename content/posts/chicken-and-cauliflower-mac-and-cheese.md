@@ -9,6 +9,7 @@ ingredients:
  - chicken
  - cauliflower
  - macaroni
+ - cheddar cheese
 meals:
   - lunch
   - dinner
