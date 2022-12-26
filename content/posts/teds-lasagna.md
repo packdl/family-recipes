@@ -6,7 +6,7 @@ families: Bates
 Slug: teds-lasagna
 Status: published
 ingredients:
-  - ricolta
+  - ricotta
   - parmesan
 meals:
   - dinner
@@ -27,7 +27,7 @@ Ted's Lasagna {.wprm-fallback-recipe-name}
 
 #### cheese filling
 
--   32 oz ricolta cheese
+-   32 oz ricotta cheese
 -   2 oz Parmesan cheese
 -   2 cups Mozzarella cheese
 -   2 oz parsley
@@ -52,7 +52,7 @@ Ted's Lasagna {.wprm-fallback-recipe-name}
 
 #### cheese filling
 
-1.  Mix ricolta, parmesan, parsley and mozzarella together with a fork thoroughly. Store in the refrigerator until you are prepared to use it.
+1.  Mix ricotta, parmesan, parsley and mozzarella together with a fork thoroughly. Store in the refrigerator until you are prepared to use it.
 
 #### lasagna sauce
 
