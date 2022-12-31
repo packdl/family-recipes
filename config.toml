@@ -2,6 +2,7 @@ baseURL = 'http://localhost'
 languageCode = 'en-us'
 title = 'Family Recipes'
 theme = 'ananke'
+summaryLength = 120
 
 [params]
   background_color_class = "bg-blue"
@@ -14,14 +15,20 @@ theme = 'ananke'
   weight = 20
 
 [[menu.main]]
+  identifier = 'aaa'
+  name = 'Search'
+  url = '/search/'
+  weight = 30
+
+[[menu.main]]
   identifier = 'b'
-  name = 'Search by Ingredient'
+  name = 'Ingredients'
   url = '/ingredients/'
   weight = 40
 
 [[menu.main]]
   identifier = 'sbm'
-  name = 'Search by Meal'
+  name = 'Meal Types'
   url = '/meals/'
   weight = 50
 
@@ -59,3 +66,6 @@ theme = 'ananke'
 [[related.indices]]
   name = 'date'
   weight = 10
+
+[outputs]
+  home = ["HTML", "JSON"]
